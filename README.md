@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikanilingo
 - 👀 I’m interested in WEB3 & DeFi
-- 🌱 I’m currently learning blockchain technoligies
+- 🌱 I’m currently learning blockchain technologies
 - 💞️ I’m looking to collaborate on web3
 - 📫 How to reach me ...
 
